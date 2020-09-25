@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\INART.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{B7CDDE7A-4713-424F-9333-0F63568CBFBA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\INART.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\INARTEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{E44D0A12-9925-46B7-A53C-2B0CD241CD20}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\INART">
+      <UniqueIdentifier>{021BA7F5-605A-4299-95B5-2FF015D66CC0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\INART\INART.Build.cs">
+      <Filter>Source\INART</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\INART\INART.cpp">
+      <Filter>Source\INART</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\INART\INART.h">
+      <Filter>Source\INART</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\INART\INARTGameModeBase.cpp">
+      <Filter>Source\INART</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\INART\INARTGameModeBase.h">
+      <Filter>Source\INART</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

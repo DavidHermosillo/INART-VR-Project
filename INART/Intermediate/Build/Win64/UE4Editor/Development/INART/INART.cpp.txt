@@ -1,0 +1,2 @@
+F:\Repos\INART-VR-Project\INART\Intermediate\Build\Win64\UE4Editor\Development\INART\Definitions.INART.h
+F:\Repos\INART-VR-Project\INART\Source\INART\INART.h

@@ -1,0 +1,9 @@
+F:\Repos\INART-VR-Project\INART\Intermediate\Build\Win64\UE4Editor\Development\INART\Definitions.INART.h
+F:\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+F:\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+F:\Repos\INART-VR-Project\INART\Source\INART/INARTGameModeBase.h
+F:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+F:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+F:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+F:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+F:\Repos\INART-VR-Project\INART\Intermediate\Build\Win64\UE4Editor\Inc\INART\INARTGameModeBase.generated.h

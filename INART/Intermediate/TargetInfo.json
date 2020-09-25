@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "INART",
+			"Path": "F:\\Repos\\INART-VR-Project\\INART\\Source\\INART.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "INARTEditor",
+			"Path": "F:\\Repos\\INART-VR-Project\\INART\\Source\\INARTEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

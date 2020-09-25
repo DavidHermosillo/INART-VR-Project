@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-INART.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\Repos\INART-VR-Project\INART\Intermediate\Build\Win64\INARTEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"F:\Repos\INART-VR-Project\INART\Intermediate\Build\Win64\UE4Editor\Development\INART\INART.cpp.obj"
+"F:\Repos\INART-VR-Project\INART\Intermediate\Build\Win64\UE4Editor\Development\INART\INARTGameModeBase.cpp.obj"
+"F:\Repos\INART-VR-Project\INART\Intermediate\Build\Win64\UE4Editor\Development\INART\INART.init.gen.cpp.obj"
+"F:\Repos\INART-VR-Project\INART\Intermediate\Build\Win64\UE4Editor\Development\INART\INARTGameModeBase.gen.cpp.obj"
+"F:\Repos\INART-VR-Project\INART\Intermediate\Build\Win64\UE4Editor\Development\INART\Default.rc2.res"
+/OUT:"F:\Repos\INART-VR-Project\INART\Intermediate\Build\Win64\UE4Editor\Development\INART\UE4Editor-INART.lib"
+/INCLUDE:IMPLEMENT_MODULE_INART

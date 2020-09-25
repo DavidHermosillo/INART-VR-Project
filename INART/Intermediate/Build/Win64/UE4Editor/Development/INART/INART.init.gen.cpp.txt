@@ -1,0 +1,3 @@
+F:\Repos\INART-VR-Project\INART\Intermediate\Build\Win64\UE4Editor\Development\INART\Definitions.INART.h
+F:\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+F:\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

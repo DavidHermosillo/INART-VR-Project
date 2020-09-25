@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"F:\\Repos\\INART-VR-Project\\INART\\Source\\INART\\INART.Build.cs",
+		"F:\\Repos\\INART-VR-Project\\INART\\Source\\INART.Target.cs",
+		"F:\\Repos\\INART-VR-Project\\INART\\Source\\INARTEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.3"
+}
